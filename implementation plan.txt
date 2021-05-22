@@ -1,0 +1,18 @@
+Elements of the same step can be implemented in any order. Elements of one step can be implemented only after implementing 
+all elements of the previous steps.
+
+Step 1:
+- Sketch of layout + Buttons												Unfinished
+
+Step 2:
+- Drawer (Pen, different colors, tracking of drawn elements, erasing)							Unfinished
+- Functions to calculate:				
+	- a circle around a point MP with the radius R									Unfinished
+	- an equilateral polygon with 4*n edges with: For each edge X: sum(X-MP) = R  --> explicit or sequential?	Unfinished
+	- the length of the polygons edges										Unfinished
+	- the perimeter of the polygon											Unfinished
+	- approximate pi with the perimeter and the radius								Unfinished
+
+Step 3: 
+- Show Explanations for the different steps on button click								Unfinished
+- Some fancy Design													Unfinished
